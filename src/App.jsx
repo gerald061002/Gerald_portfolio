@@ -17,7 +17,7 @@ function App() {
         </div>
 
         <div className="hero">
-          <h1>Hi, I'm Bubog 😁</h1>
+          <h1>Hi, I'm Gerald F. Bubog 😁</h1>
           <p>Frontend Developer</p>
         </div>
       </div>
