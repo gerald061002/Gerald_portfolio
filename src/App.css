@@ -65,13 +65,18 @@
 }
 
 body {
-  background-color: #071c39;
+  background-color: #6c1686;
   position: absolute;
   inset: 0;
   display: flex;
   place-content: center;
   align-items: center;
   overflow: hidden;
+}
+
+h1{
+  font-family: 'Times New Roman', Times,serif;
+  color:aliceblue;
 }
 
 * {
